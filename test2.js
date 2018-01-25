@@ -4,7 +4,6 @@
 3
 4
 s
-<<<<<<< HEAD
-=======
 dfdf
->>>>>>> sadf
+dfdf
+adfa
